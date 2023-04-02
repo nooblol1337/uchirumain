@@ -18,15 +18,5 @@ def roman_to_arabic(inlet):
     return value 
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 inlet = list(input()) 
 print(roman_to_arabic(inlet))
